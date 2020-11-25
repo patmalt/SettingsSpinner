@@ -1,0 +1,1 @@
+![Settings Spinner](https://github.com/patmalt/SettingsSpinner/Preview.gif)
